@@ -1,0 +1,10 @@
+[package]
+name = "smart-road"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+druid = "0.8.3"
+image = "0.25.5"
+rand = "0.8.5"
+sdl2 = "0.37.0"
